@@ -1,2 +1,2 @@
-# Data-Science-Problems-
-data science problems along with solutions 
+# Data-Science-Problem-set
+data science problem set along with solutions 
